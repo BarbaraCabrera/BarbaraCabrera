@@ -2,7 +2,7 @@
 <h4 align="center">A developer from the Canary Islands 🇮🇨</h4>
 
 <div align="center">
- 🔭 I’m currently working on [Liferay](https://github.com/liferay/liferay-portal)
+ 🔭 I’m currently working on Liferay
 
  🌱 I’m currently workingas a frontend and backend developer **(using TS, Java, JS, React...)**.
   
