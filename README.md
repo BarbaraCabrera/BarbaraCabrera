@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bárbara</h1>
-<h3 align="center">a developer from the Canary Islands 🇮🇨</h3>
+<h2 align="center">Hi 👋, I'm Bárbara</h2>
+<h4 align="center">A developer from the Canary Islands 🇮🇨</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaracabrera&label=Profile%20views&color=0e75b6&style=flat" alt="barbaracabrera" /> </p>
 
