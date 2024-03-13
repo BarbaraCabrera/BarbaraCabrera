@@ -3,9 +3,9 @@
  
  🔭 I’m currently working on Liferay
 
- 🌱 I’m currently workingas a frontend and backend developer **(using TS, Java, JS, React...)**.
+ 🌱 I’m currently working as a frontend and backend developer **(using TS, Java, JS, React...)**.
   
- 👩🏻‍💻 I'm always learning and now I'm focused on improving my React skills and start learning Angular.
+ 👩🏻‍💻 I'm always learning and now I'm focused on improving my React skills and starting learning Angular.
 
  📫 How to reach me: **barbara.cabcas@gmail.com**
 
