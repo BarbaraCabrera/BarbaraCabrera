@@ -1,6 +1,6 @@
 ## Hi :wave:, I’m Bárbara Cabrera
 #### I’m a software developer with experience in frontend and backend technologies from the Canary Islands! 
-Currently working at Liferay, I enjoy learning and contributing to the open-source community, and I’m always eager to tackle new challenges in web development.
+#### Currently working at Liferay, I enjoy learning and contributing to the open-source community, and I’m always eager to tackle new challenges in web development.
 ---
 ### :star2: About Me:
 - :telescope: **Current Role**: I’m currently working as a frontend and backend developer at **Liferay**, using **TypeScript, Java, JavaScript, and React**.
