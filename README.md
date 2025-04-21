@@ -3,7 +3,7 @@
 #### Currently working at Liferay, I enjoy learning and contributing to the open-source community, and I’m always eager to tackle new challenges in web development.
 ---
 ### :star2: About Me:
-- :telescope: **Current Role**: I’m currently working as a frontend and backend developer at **Liferay**, using **TypeScript, Java, JavaScript, and React**.
+- :telescope: **Current Role**: I’m currently working as a frontend and backend developer at **Liferay**, using **TypeScript, Java, JavaScript, React, HTML and CSS**.
 - :seedling: **Learning Goals**: I’m focusing on improving my **React** skills and just starting to dive into **Angular**.
 - :mortar_board: **Education**: I have a background in robotics and software engineering and have a keen interest in expanding my knowledge in web technologies.
 - :earth_africa: **Location**: Based in Madrid, Spain.
